@@ -1,0 +1,61 @@
+/* Estilos generales */
+.container {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 900px;
+    text-align: center;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+/* Encabezado */
+header {
+    background-color: #dd0031;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Sección de información */
+.info {
+    padding: 20px;
+}
+
+.logo {
+    width: 150px;
+    margin: 20px auto;
+}
+
+/* Sección de pasos */
+.steps {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+.steps h2 {
+    text-align: center;
+    color: #dd0031;
+}
+
+.steps ol {
+    padding-left: 20px;
+}
+
+.steps ol li {
+    margin: 10px 0;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #333;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
